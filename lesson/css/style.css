@@ -1,0 +1,115 @@
+.header{
+font-size: 30px;
+line-height: 1,5;
+margin-bottom: 60px;
+}
+.header span{
+display: block;
+}
+.form-header{
+font-size: 30px;
+font-weight: 900;
+}
+.form{
+border: 5px solid #F0782B;
+padding: 30px 20px;
+}
+.form-btn{
+margin: 10px auto;
+}
+.form input{
+margin-bottom: 12px;
+}
+.section{
+padding:30px;
+}
+.header span{
+display: block;
+}
+.section-header{
+font-size: 25px;
+font-weight: 900;
+}
+.header2{
+font-size: 20px;
+line-height: 1,5;
+margin-bottom: 60px;
+}
+.header2 span{
+display: block;
+}
+.button{
+margin-left: 25px;
+}
+.header3{
+font-size: 20px;
+line-height: 1,5;
+margin-bottom: 60px;
+}
+.header3 span{
+display: block;
+}
+.form{
+border: 5px solid #F0782B;
+padding: 35px 20px;
+}
+.form-btn{
+margin: 10px auto;
+}
+.section{
+padding: 30px;
+}
+.form input{
+margin-bottom: 12px;
+}
+.header3 span{
+display: block;
+}
+.header4{
+font-size: 35px;
+margin-bottom: 60px;
+}
+.header4 strong{
+font-weight: 900;
+}
+.cpoc{
+color:black;
+}
+.Cloak{
+font-size: 30px;
+background-color:aqua ;
+}
+.center{
+display: block;
+margin: 0 auto;
+}
+.vrk{
+color: black;
+}
+.header5{
+line-height: 1,5;
+font-size: 35px;
+margin-bottom: 60px;
+}
+.header5 span{
+display: block;
+}
+.form-header{
+font-size: 20px;
+font-weight: 900;
+}
+.form{
+border: 5px solid #F0782B;
+}
+.form-btn{
+margin: 10px auto;
+}
+.form input{
+margin-bottom: 15px;
+}
+.section{
+padding: 30px;;
+}
+.header5 span{
+display: block;
+}
